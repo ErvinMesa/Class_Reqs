@@ -8,6 +8,9 @@
 
 - [X] [ReEd](https://docs.google.com/document/d/1-_dCrdQAShw1eHxAJvTA1ClS03o5Zj4qekpMVFkEbGI)
 
+https://docs.google.com/document/d/1qioDwbWSx_mxiZlqtOzbFyWpWArSvlIz-2M_Es11bAM/edit?usp=drivesdk
+https://docs.google.com/document/d/1W-cS7IlM0ja0-1EN2Vv0Qk3Zm_iqBDsyNUFC213QEz8/edit?usp=drivesdk
+
 
 DECLARE @m DATE = '2018-12-31';
 
